@@ -1,2 +1,3 @@
-# professional-javascript-for-web-developers-master
-JavaScript高级程序设计代码示例
+# Source code for Professional JavaScript for Web Developers
+
+Available for purchase here: https://www.amazon.com/Professional-JavaScript-Developers-Matt-Frisbie/dp/1119366445/
